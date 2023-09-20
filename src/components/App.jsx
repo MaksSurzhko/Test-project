@@ -1,16 +1,21 @@
+import React from 'react';
+import Home from '../components/home/Home'; // Змініть імпорт на цей спосіб
+
 export const App = () => {
   return (
     <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
+      // style={{
+      //   height: '100vh',
+      //   display: 'flex',
+      //   justifyContent: 'center',
+      //   alignItems: 'center',
+      //   fontSize: 40,
+      //   color: '#010101',
+      // }}
     >
-      React homework template
+      <Home />
     </div>
   );
 };
+
+// export default App;
