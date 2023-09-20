@@ -83,8 +83,7 @@ const Home = () => {
 </ul>
 </div> 
 
-
-         
+        <button className={hcss.knopkaa}>Other drinks</button>
       </div>
       
      </div>  

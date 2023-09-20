@@ -77,3 +77,11 @@
     align-items: center;
 }
 
+.knopkaa {
+    border-radius: 42px;
+    background: #F3F3F3;
+    color: #161F37;
+    padding: 18px 44px;
+    cursor: pointer;
+}
+
