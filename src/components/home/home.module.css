@@ -41,15 +41,11 @@
 .boxtwo{
     width: 359px;
     height: 445px;
-    background-color: #F3F3F3;
     align-items: center;
     margin-left: 130px;
+    border: 2px solid white;
 }
 
-
-.conttwo{
-    margin-top: 160px;
-}
 
 .titles{
     font-size: 40px;
@@ -83,5 +79,8 @@
     color: #161F37;
     padding: 18px 44px;
     cursor: pointer;
+    display: flex;
+        justify-content: center;
+        align-items: center;
 }
 

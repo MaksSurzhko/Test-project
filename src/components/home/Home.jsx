@@ -1,5 +1,5 @@
 import React from 'react';
-import { Cont, Title } from "../home/home.styled"
+// import { Cont, Title } from "../home/home.styled"
 import hcss from "./home.module.css"
 
 // const Home = () => {
@@ -24,7 +24,6 @@ const Home = () => {
         </div>
         
        <div className={hcss.boxtwo}>
-          <p className={hcss.peshka}>Image</p>
         </div>
       </div>
       
@@ -80,10 +79,12 @@ const Home = () => {
       <a href="">see more</a>
     </div>
   </li>
-</ul>
-</div> 
+          </ul>
+          
+           </div> 
 
         <button className={hcss.knopkaa}>Other drinks</button>
+       
       </div>
       
      </div>  
