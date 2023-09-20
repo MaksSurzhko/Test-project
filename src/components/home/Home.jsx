@@ -34,21 +34,21 @@ const Home = () => {
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
 
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
 
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
           </ul>
@@ -62,21 +62,21 @@ const Home = () => {
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
 
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
 
   <li className={hcss.item}>
     <div className={hcss.itemContent}>
       <p>name</p>
-      <a href="">see more</a>
+      <a href="#">see more</a>
     </div>
   </li>
           </ul>
